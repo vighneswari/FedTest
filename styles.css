@@ -1,0 +1,51 @@
+.carousel-indicators {
+  /*background-color: #1976d2;*/
+  bottom: -42px;
+}/* You can add global styles to this file, and also import other style files */
+.carousel-indicators li {
+  background-color: #999;
+  background-color: rgba(70, 70, 70, 0.25);
+}
+
+.carousel-indicators .active {
+  background-color: #444;
+}
+.arizonapackagetitle
+{
+  font-size: 65px;
+  padding-bottom: 130px;
+}
+
+
+.readmorebtn{
+  position: absolute;
+  top: 83%;
+  left: 117%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: orange;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 1px;
+  text-align: center;
+}
+
+.Contactusbtn{
+  position: absolute;
+  top: 85%;
+  left: 86%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  /*background-color: #555;*/
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  background-color: orange;
+}
